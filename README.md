@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/wide_willow_7500), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Cannibalization Report](./practice/sql/the-cannibalization-report) | SQL | Hard | 2026-10-26 |
 | [Bronze Medal](./practice/sql/bronze-medal) | SQL | Easy | 2026-10-26 |
 
 <!-- datadriven:index:end -->
