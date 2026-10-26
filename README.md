@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/wide_willow_7500), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Both Ways](./practice/sql/both-ways) | SQL | Hard | 2026-10-26 |
 | [March Revenue by Customer](./practice/sql/march-revenue-by-customer) | SQL | Medium | 2026-10-26 |
 | [Engagement Gap](./practice/sql/engagement-gap) | SQL | Medium | 2026-10-26 |
 | [Top Users by Recent Spend](./practice/sql/top-users-by-recent-spend) | SQL | Medium | 2026-10-26 |
