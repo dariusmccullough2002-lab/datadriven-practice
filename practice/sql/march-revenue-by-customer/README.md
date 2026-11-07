@@ -2,7 +2,7 @@
 
 *One month, every customer, every dollar accounted for.*
 
-[SQL · Easy · on DataDriven](https://datadriven.io/problems/march_revenue_by_customer)
+[SQL · Medium · on DataDriven](https://datadriven.io/problems/march_revenue_by_customer)
 
 ## How it went
 
