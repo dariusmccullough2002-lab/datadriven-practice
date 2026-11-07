@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/wide_willow_7500), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Above the Fold](./practice/sql/above-the-fold) | SQL | Hard | 2026-11-07 |
 | [Above Average Interactions](./practice/sql/above-average-interactions) | SQL | Easy | 2026-11-06 |
 | [Both Ways](./practice/sql/both-ways) | SQL | Hard | 2026-10-26 |
 | [March Revenue by Customer](./practice/sql/march-revenue-by-customer) | SQL | Medium | 2026-10-26 |
