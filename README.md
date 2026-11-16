@@ -10,7 +10,7 @@ Scored work from [DataDriven](https://datadriven.io/u/wide_willow_7500), committ
 |---|---|---|---|
 | [Feature Flag Engagement Impact](./practice/sql/feature-flag-engagement-impact) | SQL | Hard | 2026-11-07 |
 | [Above the Fold](./practice/sql/above-the-fold) | SQL | Hard | 2026-11-07 |
-| [Above Average Interactions](./practice/sql/above-average-interactions) | SQL | Medium | 2026-11-06 |
+| [Above Average Interactions](./practice/sql/above-average-interactions) | SQL | Easy | 2026-11-06 |
 | [Both Ways](./practice/sql/both-ways) | SQL | Hard | 2026-10-26 |
 | [March Revenue by Customer](./practice/sql/march-revenue-by-customer) | SQL | Medium | 2026-10-26 |
 | [Engagement Gap](./practice/sql/engagement-gap) | SQL | Medium | 2026-10-26 |
